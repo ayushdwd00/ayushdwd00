@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Dwivedi
 
-<!--
-**ayushdwd00/ayushdwd00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me:
 
-Here are some ideas to get you started:
+* 🔭 Working on AI/ML & Data Science Projects
+* 🌱 Currently learning Deep Learning
+* 🤝 Looking to collaborate on AI/ML projects
+* 💬 Ask me about Python, APIs, ML
+* ⚡ Fun fact: I love building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram)](https://instagram.com)
+
+---
+
+## 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge\&logo=numpy)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge\&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge\&logo=tensorflow)
+
+---
+
+## 🚀 Projects:
+
+* 📊 Stock Market API (FastAPI + Streamlit)
+* 📈 Data Analyst Tool
+* 🤖 Machine Learning Models
