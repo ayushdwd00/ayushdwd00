@@ -29,6 +29,5 @@
 
 ## 🚀 Projects:
 
-* 📊 Stock Market API (FastAPI + Streamlit)
-* 📈 Data Analyst Tool
-* 🤖 Machine Learning Models
+- 📊 [Stock Market API](https://github.com/ayushdwd00/STOCKMARKETAPI) (FastAPI + Streamlit)
+- 📈 Data Analyst Tool
