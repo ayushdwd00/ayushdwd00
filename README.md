@@ -2,11 +2,9 @@
 
 ## 🚀 About Me:
 
-* 🔭 Working on AI/ML & Data Science Projects
-* 🌱 Currently learning Deep Learning
-* 🤝 Looking to collaborate on AI/ML projects
+* 🔭 Working on Data Science Projects
+* 🌱 Currently learning Machine Learning
 * 💬 Ask me about Python, APIs, ML
-* ⚡ Fun fact: I love building real-world projects
 
 ---
 
