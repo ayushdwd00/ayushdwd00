@@ -28,4 +28,4 @@
 ## 🚀 Projects:
 
 - 📊 [Stock Market API](https://github.com/ayushdwd00/STOCKMARKETAPI) (FastAPI + Streamlit)
-- 🧾 [Billing System](https://your-link.com) (Streamlit + Python)
+- 🧾 [Billing System](https://estimate-billing-app.streamlit.app/) (Streamlit + Python)
