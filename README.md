@@ -27,5 +27,5 @@
 
 ## 🚀 Projects:
 
-- 📊 [Stock Market API](https://github.com/ayushdwd00/STOCKMARKETAPI) (FastAPI + Streamlit)
+- 📊 [Stock Market API](https://stockmarketapi-ayushdwd.streamlit.app/) (FastAPI + Streamlit)
 - 🧾 [Billing System](https://estimate-billing-app.streamlit.app/) (Streamlit + Python)
