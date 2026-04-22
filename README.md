@@ -10,7 +10,6 @@
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram)](https://www.instagram.com/ayyushh00/)
 
 ---
@@ -21,7 +20,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge\&logo=numpy)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge\&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge\&logo=tensorflow)
 
 ---
 
