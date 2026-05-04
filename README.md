@@ -26,4 +26,4 @@
 ## 🚀 Projects:
 
 - 📊 [Stock Market API](https://stockmarketapi-ayushdwd.streamlit.app/) (FastAPI + Streamlit)
-- 🧾 [Billing System](https://estimate-billing-app.streamlit.app/) (Streamlit + Python)
+- 🧹 [Data Cleaning App](https://data-cleaning-api-ayush00.streamlit.app/) (Streamlit + Python)
