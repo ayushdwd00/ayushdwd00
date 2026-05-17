@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayush Dwivedi
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7971E&width=600&lines=Hey+%F0%9F%91%8B+I'm+Ayush+Dwivedi;Data+Analyst+%7C+AI+Engineer;Prompt+Engineer+%7C+Vibe+Coder+%F0%9F%8E§" alt="Typing SVG" />
 
 ## 🚀 About Me:
 * 🔭 Working on Data Analytics Projects
@@ -39,6 +39,19 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C3483?style=for-the-badge&logo=openai&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0077B5?style=for-the-badge&logo=databricks&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-🎧-1a1a2e?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushdwd&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdwd&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushdwd&theme=radical&hide_border=true" width="60%" />
+</p>
 
 ---
 
