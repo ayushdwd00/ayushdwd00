@@ -42,19 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushdwd&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdwd&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushdwd&theme=radical&hide_border=true" width="60%" />
-</p>
-
----
-
 ## 🚀 Projects:
 - 📊 [Stock Market API](https://stockmarketapi-ayushdwd.streamlit.app/) (FastAPI + Streamlit)
 - 🧹 [Data Cleaning App](https://data-cleaning-api-ayush00.streamlit.app/) (Streamlit + Python)
