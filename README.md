@@ -1,4 +1,8 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7971E&width=600&lines=Hey+%F0%9F%91%8B+I'm+Ayush+Dwivedi;Data+Analyst+%7C+AI+Engineer;Prompt+Engineer+%7C+Vibe+Coder+%F0%9F%8E§" alt="Typing SVG" />
+# Hey 👋 I'm Ayush Dwivedi
+
+### Data Analyst · AI Engineer · Prompt Engineer · Vibe Coder 🎧
+
+---
 
 ## 🚀 About Me:
 * 🔭 Working on Data Analytics Projects
@@ -43,8 +47,10 @@
 ---
 
 ## 🚀 Projects:
-- 📊 [Stock Market API](https://stockmarketapi-ayushdwd.streamlit.app/) (FastAPI + Streamlit)
-- 🧹 [Data Cleaning App](https://data-cleaning-api-ayush00.streamlit.app/) (Streamlit + Python)
+- 📊 [Stock Market API](https://github.com/ayushdwd00/STOCKMARKETAPI) — Real-time stock data dashboard with ML insights (FastAPI + Streamlit)
+- 🧹 [Data Cleaning API](https://github.com/ayushdwd00/data-cleaning-api) — Auto-cleans messy CSV/JSON datasets, handles nulls, duplicates & outliers (Streamlit + Python)
+- 🏦 [Banking Data Analysis](https://github.com/ayushdwd00/banking-data-analysis) — End-to-end EDA on 500 banking customers with profiling report (Pandas + Seaborn + YData)
+- 🛡️ [Insurance Analytics Report](https://github.com/ayushdwd00/insurance-analytics-report) — EDA and automated PDF report generation for an insurance portfolio (Plotly + ReportLab)
 
 ---
 
